@@ -8,7 +8,7 @@ The objectives of the project were:
 
 * Compare the number of particles produced with the expected theoretical value.
 
-
+<br/>
 Main parts of the code:
 
 * Particle.cpp: class 'Particle' is defined. The most relevant characteristics of the particle are written here, such as energy, momentum and position.
